@@ -1,0 +1,13 @@
+,Month,Mean Daily Minimum Temperature (°C),Mean Daily Maximum Temperature (°C),Mean Total Precipitation(mm),Mean Number of Precipitation Days
+0,Jan,-6.6,-1.4,51.2,12.0
+1,Feb,-7.5,-1.8,33.9,9.0
+2,Mar,-4.3,2.0,34.9,9.0
+3,Apr,0.1,8.2,36.4,8.0
+4,May,5.0,14.9,36.6,7.0
+5,Jun,9.7,19.1,60.7,9.0
+6,Jul,12.1,21.2,76.8,10.0
+7,Aug,11.6,19.9,82.8,11.0
+8,Sep,7.2,14.5,74.6,12.0
+9,Oct,3.3,9.1,75.8,12.0
+10,Nov,-1.2,3.3,69.2,14.0
+11,Dec,-4.6,0.3,60.5,14.0
