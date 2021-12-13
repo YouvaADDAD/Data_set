@@ -1,0 +1,675 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+Item,Level of crime,Crime increasing in the past 3 years,Worries home broken and things stolen,Worries being mugged or robbed,Worries car stolen,Worries things from car stolen,Worries attacked,Worries being insulted,"Worries being subject to a physical attack because of your skin color, ethnic origin, gender or religion",Problem people using or dealing drugs,Problem property crimes such as vandalism and theft,Problem violent crimes such as assault and armed robbery,Problem corruption and bribery
+Tokyo,Very Low,Moderate,Very Low,Low,Very Low,Very Low,Low,Low,Low,Low,Low,Low,Low
+Jakarta,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Very High
+New-York,Moderate,Moderate,Low,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Moderate
+Seoul,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Low,Low,Low,Low,Low
+Manila,High,High,High,High,Moderate,High,High,Moderate,Low,High,High,High,Very High
+Mumbai,Moderate,Moderate,Low,Moderate,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,High
+Sao-Paulo,Very High,High,Moderate,High,High,High,Moderate,Moderate,Low,High,High,Very High,Very High
+Mexico-City,High,Very High,Moderate,High,High,High,High,Moderate,Low,High,High,Very High,Very High
+Delhi,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Very High
+Osaka,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Kolkata,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Moderate,Moderate,High
+Los-Angeles,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Moderate
+Shanghai,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate
+Moscow,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Low,Moderate,Low,High
+Beijing,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate
+Buenos-Aires,High,High,Moderate,High,Moderate,High,Moderate,Moderate,Very Low,High,High,High,Very High
+Guangzhou,Low,Moderate,Low,Low,Low,Moderate,Low,Moderate,Low,Low,Moderate,Low,Moderate
+Shenzhen,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate
+Istanbul,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Rio-De-Janeiro,Very High,Very High,Moderate,Very High,High,High,High,Moderate,Moderate,Very High,Very High,Very High,Very High
+Paris,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,High,Moderate,Moderate,High,Moderate,Moderate
+Karachi,High,Low,Moderate,High,Moderate,Moderate,Moderate,Low,Low,Moderate,Moderate,High,High
+Chicago,High,High,Moderate,High,Moderate,High,High,Moderate,Moderate,High,High,High,High
+Lagos,High,High,High,High,High,High,High,Moderate,Moderate,High,High,High,Very High
+London,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low
+Bangkok,Moderate,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Very High
+Kinshasa,Very High,High,High,Very High,Moderate,High,High,High,Moderate,Moderate,Very High,High,Very High
+Tehran,Moderate,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,High,Moderate,Moderate,High
+Lima,Very High,Very High,Moderate,High,High,High,High,Moderate,Low,High,High,Very High,Very High
+Bogota,High,High,Moderate,High,Moderate,High,Moderate,Moderate,Very Low,High,High,High,Very High
+Chennai,Moderate,Moderate,Moderate,Moderate,Low,Low,Low,Low,Low,Low,Moderate,Low,High
+Dhaka,High,High,Moderate,High,High,High,Moderate,Moderate,Low,High,High,High,Very High
+Essen,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Moderate
+Tianjin,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate
+Hong-Kong,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Low,Low,Very Low,Low
+Taipei,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low
+Lahore,Low,Low,Low,Moderate,Moderate,Low,Low,Low,Very Low,Moderate,Moderate,Moderate,High
+Ho-Chi-Minh-City,Moderate,High,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,Moderate,High,Moderate,Very High
+Bangalore,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Very High
+Hyderabad,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Low,Moderate,Low,Moderate,Moderate,Moderate,High
+Johannesburg,Very High,Very High,High,Very High,High,Very High,High,High,High,High,Very High,Very High,Very High
+Baghdad,High,High,High,High,High,Moderate,High,High,High,Moderate,High,High,High
+Toronto,Moderate,High,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low
+Santiago,High,High,Moderate,High,Moderate,High,Moderate,Low,Low,Moderate,High,Moderate,Moderate
+Kuala-Lumpur,High,High,High,High,High,High,High,Moderate,Moderate,Moderate,High,High,Very High
+San-Francisco,High,High,Moderate,Moderate,Moderate,High,Moderate,High,Low,High,High,Moderate,Moderate
+Philadelphia,High,High,Moderate,Moderate,Moderate,High,Moderate,High,Moderate,High,High,High,High
+Wuhan,Very Low,Moderate,Low,Very Low,Very Low,Low,Low,Low,Low,Low,Low,Very Low,Moderate
+Miami,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,High
+Dallas,Moderate,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate
+Madrid,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Ahmedabad,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High
+Boston,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,Low
+Belo-Horizonte,High,High,Moderate,High,High,High,Moderate,Low,Very Low,High,High,High,Very High
+Khartoum,Low,Moderate,Low,Low,Low,Moderate,Low,Very Low,Very Low,Low,Moderate,Low,High
+Saint-Petersburg,Low,Moderate,Low,Low,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Low,High
+Shenyang,Very Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Moderate
+Houston,High,High,High,High,Moderate,High,Moderate,Moderate,Moderate,High,High,High,Moderate
+Pune,Moderate,High,Moderate,Moderate,Low,Low,Moderate,Moderate,Low,Low,Moderate,Low,High
+Riyadh,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate
+Singapore,Low,High,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Washington,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Moderate,High,High,High,Moderate
+Yangon,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,High
+Milan,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,High
+Atlanta,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Moderate,High,High,High,Moderate
+Chongqing,Very Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High
+Alexandria,Low,Moderate,Low,Moderate,Moderate,Moderate,Low,Low,Very Low,Low,Moderate,Low,High
+Nanjing,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Moderate
+Guadalajara,High,Very High,Moderate,High,High,High,Moderate,Low,Very Low,High,High,High,Very High
+Barcelona,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Low,Low,Moderate,Moderate,Low,Moderate
+Chengdu,Very Low,Moderate,Low,Low,Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Moderate
+Detroit,Very High,High,High,High,High,High,High,High,High,Very High,Very High,High,High
+Ankara,Low,High,Low,Low,Low,Moderate,Low,Low,Low,Low,Moderate,Low,High
+Abidjan,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Moderate,Moderate,Moderate,Very High
+Athens,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,High
+Berlin,Moderate,High,Low,Low,Low,Low,Moderate,Moderate,Low,Moderate,Moderate,Low,Low
+Sydney,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Monterrey,High,Moderate,Moderate,Moderate,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,High,High
+Phoenix,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,Moderate
+Busan,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Recife,Very High,Very High,Moderate,Very High,High,High,High,Moderate,Low,High,Very High,Very High,Very High
+Bandung,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,High
+Porto-Alegre,Very High,Very High,Moderate,Very High,Very High,High,High,Moderate,Very Low,High,Very High,Very High,Very High
+Melbourne,Moderate,High,Moderate,Low,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Luanda,High,High,High,High,Moderate,High,High,Moderate,Low,Moderate,High,High,Very High
+Hangzhou,Very Low,Low,Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Moderate
+Algiers,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,High
+Montreal,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,Moderate
+Xi'an,Low,Low,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low
+Qingdao,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Very Low,Low
+Surat,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Moderate
+Fortaleza,Very High,Very High,High,Very High,High,Very High,High,Moderate,Low,High,Very High,Very High,Very High
+Medellin,High,Moderate,Low,High,Moderate,Moderate,Moderate,Low,Very Low,High,Moderate,High,High
+Durban,Very High,Very High,Very High,Very High,Very High,High,High,High,High,High,Very High,Very High,Very High
+Kanpur,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Very Low,Low,Moderate,Moderate,High
+Addis-Ababa,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,High
+Nairobi,High,Moderate,Moderate,High,Moderate,High,Moderate,Moderate,Low,Moderate,High,High,Very High
+Naples,High,Moderate,Moderate,High,High,High,Moderate,Moderate,Low,High,High,High,High
+Kabul,Very High,High,High,High,Very High,High,High,High,High,High,High,High,Very High
+Salvador,Very High,Very High,Moderate,Very High,High,High,High,Moderate,Low,High,High,Very High,Very High
+Kano,Moderate,High,Moderate,Moderate,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,High
+Casablanca,High,Moderate,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,High
+Cape-Town,Very High,Very High,High,High,High,High,High,Moderate,Moderate,High,High,Very High,Very High
+Curitiba,High,High,Moderate,High,High,High,Moderate,Low,Very Low,High,High,High,High
+Surabaya,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High
+San-Diego,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,Low
+Seattle,Moderate,High,Moderate,Low,Moderate,High,Moderate,Moderate,Low,High,High,Moderate,Low
+Rome,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,High,Moderate,High
+Dar-Es-Salaam,High,High,High,High,Moderate,High,Moderate,Moderate,Low,Moderate,High,High,Very High
+Taichung,Very Low,Moderate,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Moderate
+Jaipur,Low,Moderate,Moderate,Low,Low,Low,Low,Low,Very Low,Low,Moderate,Low,High
+Caracas,Very High,Very High,High,Very High,Very High,Very High,Very High,High,Low,High,Very High,Very High,Very High
+Dakar,Low,High,Moderate,Low,Low,Moderate,Low,Low,Very Low,Low,Moderate,Low,High
+Kaohsiung,Very Low,Moderate,Very Low,Low,Low,Very Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Minneapolis,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Moderate
+Amman,Low,High,Low,Low,Moderate,Moderate,Low,Moderate,Very Low,Low,Moderate,Low,High
+Guayaquil,High,High,Moderate,High,High,High,High,Moderate,Very Low,High,High,High,Very High
+Faisalabad,Moderate,Low,Moderate,Moderate,Moderate,Low,Low,Low,Low,Moderate,Moderate,Moderate,High
+Mashhad,Moderate,High,Moderate,Moderate,High,High,Low,Low,Very Low,Moderate,Moderate,Low,High
+Izmir,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Rawalpindi,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Tashkent,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Low,Low,Low,High
+Katowice,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate
+Changchun,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Low,Low,Low,Very Low,High
+Campinas,High,High,Moderate,High,High,High,Moderate,Low,Very Low,High,High,High,Very High
+Daegu,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low
+Nagpur,Low,Moderate,Moderate,Moderate,Low,Moderate,Low,Low,Low,Low,Moderate,Low,Moderate
+San-Juan,Very High,High,High,High,High,High,High,Moderate,Low,Very High,High,High,Very High
+Lisbon,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Frankfurt,Moderate,High,Low,Low,Low,Low,Moderate,Moderate,Low,High,Moderate,Low,Low
+Birmingham,High,High,Moderate,Moderate,Moderate,Moderate,High,High,Moderate,High,High,High,Moderate
+Tampa,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Moderate
+Medan,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,High
+Dalian,Very Low,Low,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Moderate
+Tunis,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Low,Low,Moderate,Moderate,Low,High
+Manchester,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,Low
+Port-au-prince,Very High,High,High,High,Moderate,High,High,Low,Low,High,Very High,Very High,Very High
+Damascus,High,High,High,High,High,High,High,High,High,Moderate,High,High,High
+Fukuoka,Very Low,Low,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low
+Santo-Domingo,Very High,High,Moderate,High,Moderate,High,Moderate,Moderate,Low,High,High,High,Very High
+Havana,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Cali,High,High,Moderate,High,High,High,Moderate,Moderate,Low,High,High,High,Very High
+Denver,Moderate,High,Low,Low,Low,Moderate,Low,Moderate,Low,High,Moderate,Moderate,Low
+Colombo,Low,Moderate,Moderate,Low,Low,Low,Low,Moderate,Low,Moderate,Moderate,Low,High
+Dubai,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low
+Baltimore,Very High,High,High,High,High,High,High,High,Moderate,Very High,High,Very High,High
+Sapporo,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low
+Rotterdam,Moderate,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Vancouver,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Very Low,High,Moderate,Low,Low
+Patna,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Sana'a,Very High,Very High,High,High,High,High,High,High,High,Moderate,High,High,Very High
+Warsaw,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Very Low,Moderate
+Bonn,Low,High,Low,Low,Low,Low,Moderate,Moderate,Low,Moderate,Moderate,Low,Low
+Accra,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,Low,Moderate,Moderate,Moderate,Very High
+Bucharest,Low,Low,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Very Low,High
+Yokohama,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low
+Incheon,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Brasilia,High,High,Moderate,High,High,High,Moderate,Low,Low,High,High,High,Very High
+Quezon-City,High,High,Moderate,High,Moderate,High,High,Moderate,Low,High,High,High,Very High
+Xiamen,Very Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Chittagong,High,High,High,High,Moderate,Moderate,High,High,Low,High,High,Moderate,Very High
+Stockholm,Moderate,High,Low,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Baku,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,High
+Brisbane,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Minsk,High,Very High,Moderate,Moderate,Moderate,Moderate,High,High,Moderate,Low,Moderate,High,Very High
+Hamburg,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Budapest,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Low,Moderate,Low,High
+Manaus,Very High,Very High,High,High,High,High,High,Low,Low,High,High,Very High,Very High
+Hefei,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Moderate
+Vienna,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Low,Low
+Indore,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Asuncion,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Low,Very Low,Moderate,Moderate,Moderate,Very High
+Belgrade,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,Very High
+Esfahan,Low,Moderate,Low,Low,Moderate,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,High
+Tripoli,High,High,Moderate,High,High,High,Moderate,Moderate,Moderate,High,High,High,High
+Vadodara,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High
+Quito,High,High,Moderate,High,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,High,Very High
+Perth,Moderate,High,Moderate,Low,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,Low
+Kyoto,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low
+Bhopal,Moderate,High,Moderate,Moderate,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,High
+Coimbatore,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Low,Low,Moderate,Low,High
+Kharkiv,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Moderate,Moderate,Moderate,Very High
+Harare,Moderate,High,High,High,Moderate,High,Moderate,Moderate,Low,Moderate,High,Moderate,Very High
+Ludhiana,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Very Low,High,Moderate,Moderate,Very High
+Novosibirsk,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,High
+Maputo,High,High,Moderate,High,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Very High
+Douala,High,High,High,Very High,High,High,High,High,Moderate,High,High,High,Very High
+Tabriz,Low,Moderate,Low,Low,Moderate,Moderate,Low,Low,Very Low,Low,Low,Very Low,High
+Kochi,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,High
+Montevideo,High,High,Moderate,High,Moderate,High,Moderate,Low,Very Low,Moderate,High,High,Moderate
+Visakhapatnam,Low,Moderate,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,High
+Tijuana,Very High,High,High,High,High,High,High,Moderate,Low,Very High,High,High,Very High
+Bursa,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Leon,High,Very High,High,High,Moderate,Very High,Moderate,Low,Very Low,High,High,High,High
+Auckland,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Valencia,Very Low,Moderate,Low,Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Moderate
+Thane,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+San-Antonio,Moderate,High,Moderate,Low,Moderate,High,Low,Moderate,Low,Moderate,Moderate,Moderate,Moderate
+Almaty,High,High,High,High,Moderate,High,High,Moderate,Moderate,Moderate,High,Moderate,Very High
+Phnom-Penh,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,High,High,Moderate,Very High
+Goiania,High,High,High,High,High,High,Moderate,Low,Low,High,High,High,Very High
+Varanasi,Low,Low,Low,Low,Low,Low,Low,Low,Very Low,Low,Moderate,Low,Moderate
+Cordoba,High,High,Moderate,High,Moderate,High,Moderate,Low,Very Low,Moderate,High,High,High
+Kampala,High,High,Moderate,Moderate,Moderate,High,Moderate,Low,Low,Moderate,Moderate,Moderate,Very High
+Shiraz,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Very Low,Moderate,Moderate,Low,High
+Multan,Low,Low,Low,Low,Moderate,Low,Low,Low,Low,Moderate,Moderate,Moderate,High
+Adana,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Moderate
+Prague,Very Low,Moderate,Very Low,Very Low,Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Moderate
+Meerut,High,High,High,High,High,High,High,High,High,Moderate,High,High,Very High
+Ottawa,Low,Moderate,Low,Very Low,Very Low,Low,Low,Low,Very Low,Moderate,Low,Low,Low
+Barranquilla,High,High,Low,High,Low,Moderate,Moderate,Low,Very Low,Moderate,Moderate,High,Very High
+Sofia,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Low,Very High
+Davao,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Samara,Low,Low,Very Low,Low,Low,Moderate,Moderate,Low,Low,Moderate,Moderate,Low,High
+Omsk,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,High
+Gujranwala,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Low,High
+Adelaide,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Low,Low,Low
+Rosario,Very High,Very High,High,Very High,High,High,High,Moderate,Very Low,Very High,High,Very High,Very High
+Kazan,Low,Low,Low,Low,Low,Moderate,Low,Moderate,Low,Low,Moderate,Low,High
+Calgary,Low,High,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,Low
+Yerevan,Very Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Very Low,Low,Very Low,Moderate
+Jamshedpur,Moderate,High,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,High
+Zurich,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Very Low
+Chelyabinsk,Moderate,Moderate,Low,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,High
+Conakry,Very High,Moderate,Moderate,High,High,High,Moderate,Moderate,Moderate,Very High,High,High,Very High
+Toluca,High,High,Moderate,High,High,High,High,Moderate,Low,Moderate,High,High,Very High
+Marrakech,Moderate,Moderate,Low,Moderate,Low,Low,Low,Moderate,Low,Moderate,Moderate,Low,High
+Tbilisi,Low,Moderate,Very Low,Very Low,Very Low,Low,Low,Low,Low,Low,Low,Low,Low
+Lusaka,Moderate,High,Moderate,Moderate,Moderate,High,Low,Low,Low,Low,Moderate,Moderate,High
+Faridabad,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Very Low,Low,Moderate,Moderate,High
+Rostov-na-donu,Moderate,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,High,Moderate,Moderate,Very High
+Edmonton,Moderate,High,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low
+Dnipropetrovsk,Moderate,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,Moderate,High,Moderate,Very High
+Ufa,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,High,Low,High,High,Moderate,Very High
+Sendai,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low
+Guatemala-City,High,High,Moderate,High,High,High,Moderate,Low,Low,Moderate,High,High,Very High
+Amsterdam,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Brussels,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,High,Moderate,Low
+Antananarivo,High,High,High,Moderate,Moderate,High,Moderate,Low,Low,Moderate,High,High,Very High
+Amritsar,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,High
+Vijayawada,Low,Moderate,Moderate,Low,Low,Low,Low,Low,Very Low,Low,Moderate,Low,High
+Dublin,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Moderate
+Rajkot,Moderate,High,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate
+Perm,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,High
+Odessa,High,Very High,Moderate,High,High,Very High,Moderate,High,Moderate,Very High,Moderate,Moderate,Very High
+Peshawar,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,High
+Ulaanbaatar,High,High,Moderate,High,Low,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,High
+Srinagar,Low,High,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,High
+Ghaziabad,High,High,Moderate,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,High,Very High
+San-Luis-Potosi,High,Very High,Moderate,Moderate,Moderate,High,Moderate,Low,Very Low,Moderate,Moderate,Moderate,Very High
+Krasnoyarsk,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,Very High
+Voronezh,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,Low,Moderate,Moderate,Low,Very High
+San-Jose,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Low,Moderate,Moderate,Moderate,Low
+Managua,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,Very Low,Moderate,Moderate,Moderate,High
+Cartagena,High,High,Moderate,High,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,High,High
+Merida,Low,Moderate,Low,Low,Very Low,Low,Low,Very Low,Very Low,Low,Low,Low,Moderate
+Thiruvananthapuram,Low,High,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Moderate
+Ranchi,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Mombasa,High,High,High,High,Moderate,Moderate,High,High,High,High,High,High,Very High
+Tegucigalpa,Very High,High,High,Very High,High,High,High,Moderate,Low,High,High,Very High,Very High
+Jodhpur,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,High
+Saratov,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,High,Low,Moderate,Moderate,Very Low,Very High
+La-Paz,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Moderate,Moderate,Moderate,Very High
+Liverpool,Moderate,Moderate,Moderate,Low,Low,Moderate,Low,Moderate,Low,High,Moderate,Moderate,Low
+Guwahati,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,High
+Konya,Moderate,Moderate,Low,Moderate,Low,Low,Moderate,Moderate,Low,Low,Low,Low,Moderate
+Chandigarh,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Moderate
+Bishkek,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Very High
+Marseille,High,High,Moderate,Moderate,Moderate,High,Moderate,High,Low,High,High,High,High
+Natal,Very High,Very High,High,Very High,Very High,Very High,High,Moderate,Low,High,Very High,Very High,Very High
+Mysore,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Indianapolis,High,Very High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,High,High,High,Moderate
+Jacksonville,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,High,Moderate
+Krasnodar,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Very Low,Low,Low,Low,High
+Zagreb,Very Low,Moderate,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Very Low,High
+Port-Elizabeth,Very High,Very High,High,Very High,High,High,High,Moderate,Moderate,High,High,Very High,Very High
+Chihuahua,High,High,High,High,Moderate,High,High,Low,Low,High,Moderate,High,Very High
+Lodz,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Low,Moderate
+Lviv,Low,High,Moderate,Low,Low,Moderate,Low,Low,Low,Low,Moderate,Low,Very High
+Columbus,Moderate,High,Low,Low,Low,Moderate,Low,Moderate,Low,Moderate,Moderate,Moderate,Low
+Jerusalem,Low,Moderate,Low,Low,Low,Low,Moderate,Low,Moderate,Low,Low,Low,Moderate
+Riga,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,High
+Cebu,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,High
+Aguascalientes,Low,Moderate,Moderate,Low,Low,Moderate,Low,Low,Very Low,Low,Moderate,Low,Moderate
+Hamilton,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,Moderate
+Jalandhar,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,Very High
+Winnipeg,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,High,High,Moderate,Moderate
+Sevilla,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,Moderate
+Navi-Mumbai,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate
+Saltillo,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,High
+Raipur,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,High
+Queretaro,Low,High,Low,Low,Low,Moderate,Low,Very Low,Very Low,Low,Moderate,Low,High
+Pretoria,Very High,Very High,Very High,Very High,Very High,Very High,High,High,High,High,Very High,Very High,Very High
+Austin,Low,High,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,Low
+Bulawayo,High,Very High,High,Moderate,Moderate,High,Moderate,Moderate,Moderate,Moderate,High,Moderate,Very High
+Rabat,Low,Moderate,Low,Moderate,Very Low,Low,Low,Low,Very Low,Moderate,Low,Low,High
+Memphis,Very High,High,High,High,High,High,High,High,High,Very High,High,High,High
+Joao-Pessoa,High,High,Moderate,High,Moderate,High,Moderate,Moderate,Low,High,High,Very High,Very High
+Kathmandu,Low,Moderate,Moderate,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,Very High
+Antalya,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,Low
+Lilongwe,Moderate,High,High,Moderate,Moderate,High,Low,Low,Very Low,Very Low,Moderate,Moderate,Very High
+Mexicali,High,High,High,High,High,High,Moderate,Low,Low,High,High,High,High
+Palermo,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,Very High
+Nottingham,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Low
+Hermosillo,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,Very Low,Very Low,Moderate,High,Moderate,High
+Bhubaneswar,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Moderate
+Sheffield,Moderate,High,Moderate,Moderate,Low,Low,Low,Moderate,Low,Moderate,Moderate,Low,Low
+Acapulco,Very High,High,Moderate,High,High,High,High,Moderate,Low,High,High,High,High
+Wroclaw,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Very Low,Moderate
+Fort-Worth,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low
+The-Hague,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Very Low,Very Low
+Izhevsk,Low,Low,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,High
+Charlotte,Moderate,High,Moderate,Moderate,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low
+Malmo,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low
+Vladivostok,Moderate,Low,Low,Moderate,Low,Low,Moderate,Moderate,Low,Moderate,Moderate,Low,High
+Jammu,Low,Moderate,Moderate,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,High
+El-Paso,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Low,Low,Low
+Dortmund,Moderate,High,Moderate,Moderate,Low,Low,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Cochabamba,High,High,Moderate,High,High,High,High,Moderate,Low,High,High,High,Very High
+Stuttgart,Low,High,Low,Low,Very Low,Low,Low,Low,Low,Low,Low,Low,Low
+Kingston,Low,Moderate,Low,Very Low,Very Low,Low,Low,Low,Very Low,Moderate,Low,Low,Low
+Milwaukee,High,Very High,High,High,High,High,High,Moderate,Moderate,High,High,High,Moderate
+Glasgow,Moderate,Moderate,Low,Low,Low,Low,Moderate,Moderate,Low,High,Moderate,Moderate,Low
+Dusseldorf,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Very Low
+Poznan,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Very Low,Moderate
+Quetta,Moderate,Moderate,Moderate,Moderate,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Very High
+Helsinki,Low,Moderate,Very Low,Low,Very Low,Low,Low,Low,Low,Low,Low,Low,Very Low
+Malaga,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Ribeirao-Preto,High,High,High,High,High,High,Moderate,Moderate,Low,High,High,Very High,Very High
+Louisville,High,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Moderate
+Bristol,Moderate,High,Low,Low,Low,Low,Low,Moderate,Low,High,Moderate,Low,Low
+Astana,Low,Low,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,High
+Batam,Moderate,High,Moderate,Moderate,Low,Moderate,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Very High
+Las-Vegas,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,High,Moderate
+Cancun,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,High,Moderate,Moderate,High
+Oslo,Low,High,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Vilnius,Low,Low,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Bremen,Moderate,High,Moderate,Low,Low,Moderate,Low,Moderate,Very Low,Moderate,Moderate,Low,Very Low
+Mangalore,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Portland,Moderate,High,Moderate,Low,Moderate,High,Moderate,Moderate,Low,High,High,Moderate,Low
+Oklahoma-City,Moderate,High,Moderate,Moderate,Low,Moderate,Low,Low,Low,High,Moderate,Moderate,Moderate
+Islamabad,Low,Low,Low,Low,Low,Low,Low,Very Low,Very Low,Low,Low,Low,Moderate
+Sarajevo,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,High
+Dushanbe,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Very High
+Vientiane,Low,High,Moderate,Low,Low,Low,Very Low,Very Low,Very Low,Low,Moderate,Low,Very High
+Dehradun,Low,High,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Low,Low,High
+Abu-Dhabi,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low
+San-Pedro-Sula,Very High,Very High,High,Very High,High,High,High,High,Moderate,Very High,Very High,Very High,Very High
+Tucson,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,High,High,Moderate,Moderate
+Tomsk,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,High
+Newcastle,Moderate,Moderate,Moderate,Low,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Moderate
+Belgaum,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Moderate,Moderate,High
+Copenhagen,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Low,Very Low
+Oaxaca-De-Juarez,Low,Moderate,Low,Low,Low,Low,Low,Very Low,Very Low,Low,Moderate,Low,High
+Macao,Low,Moderate,Low,Low,Very Low,Very Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Eskisehir,Very Low,Low,Low,Low,Very Low,Very Low,Low,Very Low,Very Low,Low,Low,Very Low,Low
+San-Salvador,Very High,High,High,High,High,High,High,Moderate,Low,High,High,Very High,Very High
+Kolhapur,Low,Low,Low,Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Moderate
+Joinville,Moderate,High,Moderate,Moderate,High,Moderate,Low,Low,Very Low,Moderate,High,Moderate,High
+Albuquerque,Very High,Very High,High,Moderate,High,High,Moderate,Moderate,Low,Very High,Very High,High,High
+Agadir,Low,Moderate,Low,Moderate,Low,Moderate,Low,Low,Very Low,Low,Low,Low,High
+Gomel,Moderate,High,Low,Moderate,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,High
+Leipzig,Moderate,High,Moderate,Low,Low,Low,Moderate,Moderate,Low,Moderate,High,Low,Very Low
+Valenzuela,Low,Low,Moderate,Moderate,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,Low
+Panama-City,Moderate,High,Moderate,Moderate,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,High
+Durango,Moderate,Low,Moderate,Moderate,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,High
+Niteroi,Very High,Very High,Moderate,High,High,Moderate,Moderate,Low,Very Low,High,High,Very High,Very High
+Dresden,Low,High,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Long-Beach,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,High,High,Moderate,Moderate
+Las-Pinas,Low,Low,Moderate,Moderate,Low,Low,Moderate,Low,Very Low,Moderate,Moderate,Moderate,Moderate
+Makati,Moderate,Low,Moderate,Moderate,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,High
+Siliguri,Moderate,High,Moderate,Moderate,Low,Low,Moderate,Moderate,Low,High,Moderate,Moderate,High
+Kitchener,Moderate,High,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,Low
+Fresno,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,Moderate
+Gdansk,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Moderate
+Sacramento,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Low,High,Moderate,Moderate,Low
+New-Orleans,High,High,Moderate,High,Moderate,High,Moderate,Moderate,Moderate,High,High,High,High
+Cleveland,High,High,High,High,Moderate,High,High,High,Moderate,High,High,High,High
+Edinburgh,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,Low
+Pereira,Low,Low,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Low,Moderate,Moderate
+Kansas-City,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Moderate,High,High,High,Moderate
+Lyon,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Portsmouth,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Low
+Leicester,Moderate,High,Moderate,Moderate,Low,Low,Moderate,Moderate,Low,Moderate,Moderate,Low,Low
+Virginia-Beach,Moderate,High,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Moderate
+Bacolod,Moderate,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,High,Moderate,High
+Bratislava,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Very Low,High
+Kaliningrad,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Very Low,High
+Doha,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Low
+Santos,High,High,Low,High,Moderate,Moderate,Moderate,Low,Very Low,Moderate,Moderate,High,High
+Murcia,Low,High,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Low,Low,Moderate
+Utrecht,Low,Moderate,Low,Very Low,Very Low,Low,Low,Low,Low,Low,Low,Low,Very Low
+Omaha,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low
+Caxias-Do-Sul,High,High,Moderate,High,High,High,Moderate,Low,Low,Moderate,High,High,High
+Szczecin,Low,Low,Low,Very Low,Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low
+Gaza,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate
+Ashgabat,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Moderate,Moderate,Low,High
+Florianopolis,High,High,Moderate,Moderate,Moderate,High,Moderate,Low,Very Low,Moderate,Moderate,Moderate,High
+Basra,Moderate,High,Moderate,High,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,High,High
+Pietermaritzburg,Very High,Very High,High,Very High,High,High,High,High,High,High,Very High,Very High,Very High
+Tallinn,Low,Low,Very Low,Very Low,Very Low,Low,Low,Low,Very Low,Low,Low,Very Low,Low
+Oakland,High,Moderate,High,High,Moderate,High,Moderate,Moderate,Low,High,High,High,Moderate
+Tirana,Moderate,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,Very High
+Yogyakarta,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Low,Low,Moderate,Low,High
+Toulouse,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,Low
+Thessaloniki,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Bournemouth,Moderate,High,Low,Low,Low,Low,Moderate,Low,Low,High,Moderate,Low,Low
+Da-Nang,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,High
+Tulsa,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,High,Moderate,Moderate
+Halifax,Moderate,High,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,Low
+Chiang-Mai,Very Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Low,High
+Abuja,High,High,Moderate,High,High,High,Moderate,Moderate,Low,Moderate,High,High,Very High
+Buraydah,Very Low,Low,Low,Very Low,Low,Low,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low
+Samsun,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Very Low,Low
+Honolulu,Moderate,High,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Moderate
+Sevastopol,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,Moderate
+Wellington,Low,Moderate,Low,Very Low,Low,Low,Low,Low,Low,Moderate,Low,Low,Very Low
+Palma-De-Mallorca,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Low,Very Low,Moderate
+Christchurch,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low
+Bologna,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Very Low,Moderate,High,Low,Moderate
+Colorado-Springs,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,Low
+Klang,High,High,High,High,High,High,High,Moderate,Moderate,High,High,High,High
+Brno,Very Low,Moderate,Very Low,Low,Low,Low,Low,Low,Very Low,Low,Moderate,Very Low,Moderate
+Iloilo,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Moderate,Moderate,Moderate,Moderate
+Benoni,Very High,Very High,Very High,Very High,Very High,Very High,Very High,High,High,High,Very High,Very High,Very High
+Udon-Thani,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Moderate
+Bydgoszcz,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Low,Moderate,Very Low,Low
+Beirut,Moderate,High,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Very High
+Kaunas,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low,Low,Moderate,Low,High
+Wichita,High,High,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Low,High,Moderate,Moderate,Moderate
+Lublin,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Moderate,Low,Moderate,Low,Low
+Bilbao,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate
+Petaling-Jaya,Moderate,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Bloemfontein,High,Very High,High,High,High,High,High,High,High,High,Very High,High,Very High
+Oshawa,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,High,Moderate,Low
+Nice,High,High,High,High,High,High,High,High,High,High,High,High,High
+Plovdiv,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Very Low,High
+Raleigh,Low,High,Low,Low,Low,Moderate,Low,Low,Low,Low,Low,Low,Low
+Victoria,Low,High,Low,Low,Low,Moderate,Low,Low,Very Low,High,Moderate,Low,Low
+Windsor,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Low,High,Moderate,Low,Low
+Thrissur,Very Low,Moderate,Low,Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Moderate
+Cardiff,Moderate,Moderate,Low,Low,Low,Low,Low,Moderate,Very Low,Moderate,Moderate,Low,Low
+Khon-Kaen,Low,Moderate,Very Low,Low,Very Low,Low,Very Low,Low,Low,Moderate,Low,Low,High
+Bari,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,High,Moderate,High
+Canberra,Very Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Very Low
+Alicante,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Eindhoven,Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Very Low
+Celaya,Very High,Very High,High,Very High,High,Very High,High,High,Moderate,Very High,Very High,Very High,Very High
+Vitoria,Moderate,Moderate,Low,High,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,Moderate
+Pittsburgh,Moderate,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low
+Iasi,Low,Low,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Very Low,High
+Varna,Low,Low,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Low,Low,High
+Aomori,Very Low,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low
+Ostrava,Low,Low,Low,Low,Low,Moderate,Low,Low,Low,Low,Moderate,Very Low,Low
+Lausanne,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Very Low,Moderate,Low,Low,Low
+Cincinnati,High,High,Low,Moderate,Low,Moderate,Low,Moderate,Low,High,Moderate,Moderate,Low
+Mannheim,Moderate,Moderate,Low,Low,Very Low,Low,Low,Low,Low,Moderate,Moderate,Low,Very Low
+Cluj-napoca,Very Low,Low,Very Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Moderate
+Constanta,Low,Moderate,Low,Low,Very Low,Moderate,Low,Low,Very Low,Low,Low,Low,High
+Southampton,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Low
+Cuenca,Moderate,Moderate,Low,Moderate,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,Moderate
+Timisoara,Very Low,Low,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,High
+Catania,High,High,High,High,High,High,Moderate,Moderate,Low,High,High,Moderate,Very High
+Craiova,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Very Low,Moderate,Moderate,Low,Very High
+Galati,Low,Moderate,Low,Low,Low,Moderate,Low,Moderate,Very Low,Low,Low,Low,High
+Bakersfield,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Moderate,Very High,High,Moderate,Moderate
+Bialystok,Low,Low,Very Low,Low,Very Low,Very Low,Low,Low,Low,Low,Low,Very Low,Low
+Arhus,Very Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Very Low
+Noida,High,High,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,Moderate,High,High,High
+Vigo,Very Low,Moderate,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Moderate,Low,Very Low,Low
+Vina-Del-Mar,Low,Moderate,Moderate,Low,Low,Moderate,Low,Very Low,Very Low,Low,Moderate,Low,Low
+Riverside,Low,Moderate,Low,Low,Low,Low,Low,Moderate,Low,Moderate,Moderate,Low,Low
+Stockton,Very High,High,High,High,High,Very High,High,High,High,Very High,Very High,Very High,Moderate
+Corpus-Christi,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Moderate
+Gaborone,Moderate,Very High,High,High,Moderate,High,Moderate,Low,Very Low,Moderate,High,Moderate,Moderate
+Brasov,Very Low,Low,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Very Low,High
+Newark,Very High,High,High,High,High,High,High,High,Moderate,Very High,High,High,Moderate
+Georgetown,Very High,High,High,High,Moderate,High,High,Moderate,Moderate,High,High,Very High,Very High
+Buffalo,Moderate,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Moderate
+Kuching,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Low,Moderate,Moderate,Moderate,High
+Karlsruhe,Moderate,High,Low,Moderate,Very Low,Low,Moderate,Moderate,Low,Low,Low,Moderate,Very Low
+Belfast,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low
+Valparaiso,High,High,High,High,Moderate,High,High,Moderate,Low,High,High,High,Moderate
+Anchorage,High,Very High,High,Moderate,Moderate,High,Moderate,Moderate,Low,Very High,High,High,Low
+Wollongong,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Moderate
+Swansea,Moderate,Moderate,Low,Low,Low,Low,Low,Low,Very Low,High,Low,Low,Very Low
+Nantes,High,Very High,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,Low
+Wiesbaden,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Angeles,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Haifa,Low,Moderate,Low,Very Low,Low,Low,Low,Low,Low,Low,Low,Very Low,Moderate
+Strasbourg,Low,High,Low,Low,Very Low,Low,Low,Low,Low,Moderate,Moderate,Low,Very Low
+Blackpool,High,High,Moderate,Moderate,Moderate,Moderate,High,High,Moderate,Very High,High,Moderate,Low
+Verona,Low,High,Moderate,Low,Very Low,Low,Low,Very Low,Low,Moderate,Moderate,Very Low,Moderate
+Nis,Low,Moderate,Low,Very Low,Low,Low,Low,Low,Very Low,Low,Low,Low,High
+Port-Moresby,Very High,Very High,High,Very High,Very High,Very High,High,High,High,High,Very High,Very High,Very High
+Gdynia,Low,Low,Very Low,Low,Low,Low,Low,Low,Low,Low,Low,Very Low,Low
+Baguio,Low,Moderate,Moderate,Moderate,Low,Low,Moderate,Low,Low,Moderate,Moderate,Moderate,High
+Plano,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Leiden,Very Low,Moderate,Low,Very Low,Very Low,Very Low,Very Low,Low,Very Low,Low,Low,Very Low,Very Low
+Sfax,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Moderate
+Ljubljana,Very Low,Moderate,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Moderate
+Batangas,High,High,High,High,High,High,High,Moderate,Moderate,High,High,High,High
+Graz,Very Low,Moderate,Low,Low,Very Low,Very Low,Low,Low,Low,Moderate,Low,Very Low,Low
+Aachen,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Low,Very Low
+Plymouth,Moderate,High,Low,Low,Very Low,Low,Low,Moderate,Low,Moderate,Moderate,Low,Very Low
+Bergen,Low,High,Low,Low,Very Low,Low,Low,Low,Very Low,Moderate,Low,Low,Low
+Paramaribo,Moderate,High,Moderate,Moderate,Low,High,Moderate,Low,Low,Moderate,Moderate,Moderate,Very High
+Granada,Very Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Derby,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Low
+Saskatoon,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,High,Moderate,Low
+Kosice,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Low,Low,Moderate,Very Low,High
+Kigali,Low,Moderate,Low,Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Low,Low
+Windhoek,High,Very High,High,High,Moderate,High,High,Moderate,Moderate,High,High,High,Very High
+Espoo,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Very Low
+Gent,Low,High,Low,Low,Very Low,Low,Low,Low,Very Low,Low,Low,Very Low,Low
+Henderson,Low,Low,Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Low,Very Low
+Greensboro,Moderate,High,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,Low
+Ploiesti,Low,Moderate,Low,Low,Low,Low,Low,Moderate,Low,Low,Moderate,Very Low,High
+Porto,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,Moderate
+Gurgaon,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Montpellier,High,Very High,Moderate,Moderate,Moderate,Moderate,Moderate,High,Moderate,High,High,Moderate,Moderate
+Santa-Cruz-De-Tenerife,Very Low,Moderate,Low,Very Low,Very Low,Low,Low,Low,Very Low,Moderate,Low,Very Low,Moderate
+Baton-Rouge,High,High,Moderate,High,Moderate,High,High,Moderate,Moderate,High,High,High,High
+Madison,Low,High,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Bayamon,Very High,High,High,High,High,High,High,Moderate,Low,Very High,Very High,Very High,Very High
+Concepcion,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Moderate
+George-Town,Low,High,Low,Low,Low,Moderate,Very Low,Low,Very Low,Low,Low,Low,High
+Bordeaux,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,Low
+Sunshine-Coast,Very Low,Moderate,Low,Very Low,Very Low,Low,Low,Low,Very Low,Low,Low,Very Low,Very Low
+Orlando,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,Moderate
+Aberdeen,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Rochester,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Moderate,High,High,High,Moderate
+Nassau,High,High,High,High,High,High,Moderate,Moderate,Low,Moderate,High,High,High
+Padova,Moderate,Moderate,Low,Low,Low,Moderate,Low,Moderate,Low,Moderate,Moderate,Low,Moderate
+Modesto,High,High,High,Moderate,High,High,Moderate,Moderate,Low,Very High,High,High,Moderate
+Rennes,Moderate,Very High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Low
+Oradea,Very Low,Low,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Moderate
+Trieste,Very Low,Moderate,Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Low
+Tampere,Very Low,High,Very Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Low,Low,Very Low,Very Low
+Ajman,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low
+Durham,High,High,Moderate,Moderate,Low,Moderate,Moderate,High,Moderate,High,High,High,Moderate
+Debrecen,Very Low,Moderate,Low,Very Low,Very Low,Low,Low,Low,Very Low,Low,Low,Low,Moderate
+Reno,Moderate,High,Moderate,Low,Moderate,Moderate,Low,Moderate,Low,Moderate,Moderate,Moderate,Low
+Freiburg-Im-Breisgau,Low,High,Low,Low,Very Low,Very Low,Low,Moderate,Low,Moderate,Low,Low,Very Low
+Fremont,Low,High,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Low,Moderate,Moderate,Low,Low
+Groningen,Very Low,Moderate,Low,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Moderate,Low,Very Low,Very Low
+San-Bernardino,Very High,High,High,High,High,High,High,High,Moderate,Very High,Very High,High,Moderate
+Regina,High,Moderate,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,High,High,Moderate,Low
+Northampton,Moderate,High,Low,Moderate,Low,Moderate,Moderate,Moderate,Low,High,High,Moderate,Low
+Spokane,High,Very High,Moderate,Low,Moderate,High,Moderate,Moderate,Low,High,High,Moderate,Low
+Banja-Luka,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Very High
+Tacoma,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,High,High,Moderate,Low
+Norwich,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Very Low,Moderate,Low,Very Low,Very Low
+Des-Moines,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,Moderate
+Grand-Rapids,Moderate,High,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Moderate,Low
+Richmond,Moderate,Moderate,Low,Moderate,Low,Moderate,Low,Low,Low,Moderate,High,Moderate,Low
+Barisal,High,High,Moderate,Moderate,Low,Low,High,Moderate,High,Very High,High,High,Very High
+Mobile,High,Very High,High,Moderate,Moderate,High,Moderate,Moderate,Moderate,Very High,High,High,High
+Brescia,Moderate,High,Moderate,Moderate,Low,Moderate,Low,Low,Low,High,Moderate,Moderate,Moderate
+Reykjavik,Very Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Low
+Haarlem,Very Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Very Low
+Split,Low,High,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Low,High
+Linz,Very Low,Moderate,Low,Very Low,Very Low,Very Low,Very Low,Low,Very Low,Low,Low,Very Low,Very Low
+Carolina,High,High,High,High,High,High,High,Moderate,Low,Very High,High,High,High
+Liege,Moderate,High,Low,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Low,Low
+Irvine,Very Low,Moderate,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Low
+Klaipeda,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Moderate
+Odense,Very Low,Moderate,Low,Low,Very Low,Very Low,Low,Low,Very Low,Low,Low,Very Low,Very Low
+Cork,Low,High,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,Low
+Almeria,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,High,High,Moderate,High
+Little-Rock,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Moderate,High,High,High,Moderate
+Milton-Keynes,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Low
+Lille,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,High,Low,High,High,Moderate,Low
+Uppsala,Moderate,High,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Amarillo,Low,Very Low,Low,Low,Low,Low,Low,Very Low,Very Low,Low,Low,Low,Low
+Ponce,Very High,Very High,High,High,High,Very High,High,High,Low,Very High,High,Very High,Very High
+Modena,Moderate,Very High,Moderate,Moderate,Low,Moderate,Moderate,Low,Low,Moderate,Moderate,Low,Moderate
+Knoxville,Moderate,High,Low,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Almere,Low,Moderate,Low,Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Very Low
+Salt-Lake-City,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,Low
+Manama,Very Low,Moderate,Very Low,Very Low,Very Low,Low,Low,Low,Low,Low,Low,Very Low,Moderate
+Parma,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Very Low,Low
+Turku,Low,Moderate,Very Low,Low,Very Low,Low,Low,Low,Very Low,Moderate,Low,Low,Very Low
+Netanya,High,High,High,Moderate,High,High,Moderate,Moderate,Low,Moderate,High,Moderate,Moderate
+Arad,Very Low,Low,Low,Low,Very Low,Low,Low,Moderate,Very Low,Low,Low,Very Low,High
+Suva,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Fort-Lauderdale,Moderate,High,Moderate,Low,Moderate,Moderate,Low,Moderate,Low,High,Moderate,Moderate,Moderate
+Huntsville,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low
+Geelong,Moderate,High,Moderate,Low,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Low
+Sherbrooke,Very Low,Moderate,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Low
+Szeged,Low,Moderate,Very Low,Low,Very Low,Low,Very Low,Low,Low,Low,Low,Very Low,Moderate
+Rzeszow,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Low,Low,Very Low,Low,Very Low,Low
+Sudbury,High,Very High,Moderate,Moderate,Low,High,Moderate,Moderate,Low,Very High,High,Moderate,Moderate
+Abbotsford,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,Very High,High,Moderate,Moderate
+Perugia,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Low,High,Moderate,Low,Moderate
+Kota-Kinabalu,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Very Low,Moderate,High,Moderate,High
+Trondheim,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Very Low
+Cagliari,Low,High,Low,Low,Low,Moderate,Low,Low,Very Low,Moderate,Moderate,Low,Moderate
+Nijmegen,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Very Low
+Zanzibar,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,High
+Swindon,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,Low
+Chattanooga,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,High,Moderate,Moderate
+Sibiu,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Low,Low,Very Low,High
+Enschede,Low,Moderate,Moderate,Low,Low,Moderate,Low,Moderate,Low,High,Moderate,Moderate,Low
+Foggia,High,Very High,High,High,High,High,Moderate,High,Moderate,High,Very High,High,Very High
+Grenoble,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Moderate
+Springfield,High,Very High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Low,Very High,High,High,Moderate
+Townsville,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,Low
+Port-Louis,High,High,High,High,Moderate,High,High,Low,Low,High,High,High,High
+Salzburg,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Low,Low,Very Low,Low
+Saint-Louis,Very High,High,Moderate,High,High,High,High,High,Moderate,Very High,High,High,Moderate
+Subotica,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,High,Moderate,Very High
+Dundee,Moderate,High,Low,Low,Low,Moderate,Low,Moderate,Low,High,Moderate,Low,Low
+Eugene,Moderate,High,Moderate,Low,Low,Moderate,Low,Moderate,Low,High,Moderate,Low,Low
+Rijeka,Very Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,High
+Oxford,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Slough,High,High,Moderate,High,Moderate,High,High,Moderate,Moderate,Very High,High,High,Moderate
+Ipswich,Moderate,High,Moderate,Low,Low,Low,Low,Moderate,Low,Moderate,Low,Low,Low
+Ulaanbaatar,High,High,Moderate,High,Low,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,High
+Podgorica,Moderate,High,Moderate,Moderate,Low,Moderate,Low,Moderate,Moderate,Moderate,Moderate,Moderate,High
+Casablanca,High,Moderate,Moderate,High,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,High
+Marrakech,Moderate,Moderate,Low,Moderate,Low,Low,Low,Moderate,Low,Moderate,Moderate,Low,High
+Windhoek,High,Very High,High,High,Moderate,High,High,Moderate,Moderate,High,High,High,Very High
+Kathmandu,Low,Moderate,Moderate,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,Very High
+Amsterdam,Low,Moderate,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Groningen,Very Low,Moderate,Low,Very Low,Very Low,Very Low,Low,Very Low,Very Low,Moderate,Low,Very Low,Very Low
+Maastricht,Very Low,Moderate,Low,Very Low,Very Low,Very Low,Very Low,Low,Very Low,Moderate,Low,Very Low,Very Low
+Auckland,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Christchurch,Moderate,High,Moderate,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Low
+Wellington,Low,Moderate,Low,Very Low,Low,Low,Low,Low,Low,Moderate,Low,Low,Very Low
+Abuja,High,High,Moderate,High,High,High,Moderate,Moderate,Low,Moderate,High,High,Very High
+Skopje,Moderate,High,Moderate,Low,Low,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Very High
+Kristiansand,Moderate,Moderate,Moderate,Moderate,Low,Low,Moderate,Low,Moderate,High,Moderate,Low,Low
+Oslo,Low,High,Low,Low,Low,Low,Low,Low,Low,Moderate,Moderate,Low,Low
+Trondheim,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Very Low
+Muscat,Very Low,Moderate,Low,Very Low,Very Low,Low,Very Low,Low,Very Low,Low,Low,Very Low,Low
+Santiago,High,High,Moderate,High,Moderate,High,Moderate,Low,Low,Moderate,High,Moderate,Moderate
+Kigali,Low,Moderate,Low,Low,Very Low,Low,Very Low,Very Low,Very Low,Low,Low,Low,Low
+Dakar,Low,High,Moderate,Low,Low,Moderate,Low,Low,Very Low,Low,Moderate,Low,High
+Belgrade,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,Very High
+Victoria,Low,High,Low,Low,Low,Moderate,Low,Low,Very Low,High,Moderate,Low,Low
+Singapore,Low,High,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Bloemfontein,High,Very High,High,High,High,High,High,High,High,High,Very High,High,Very High
+Paramaribo,Moderate,High,Moderate,Moderate,Low,High,Moderate,Low,Low,Moderate,Moderate,Moderate,Very High
+Malmo,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low
+Stockholm,Moderate,High,Low,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low
+Geneva,Low,Moderate,Low,Low,Very Low,Low,Low,Low,Very Low,Moderate,Low,Very Low,Low
+Lugano,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Very Low,Low,Low,Very Low,Very Low
+Zurich,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Very Low,Very Low
+Damascus,High,High,High,High,High,High,High,High,High,Moderate,High,High,High
+Dushanbe,Moderate,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Very High
+Pattaya,Moderate,High,Moderate,Moderate,Low,Moderate,Moderate,Moderate,Low,Moderate,Moderate,Moderate,High
+Ashgabat,Low,Low,Low,Low,Low,Low,Low,Moderate,Low,Moderate,Moderate,Low,High
+Kampala,High,High,Moderate,Moderate,Moderate,High,Moderate,Low,Low,Moderate,Moderate,Moderate,Very High
+Dubai,Very Low,Moderate,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low
+Albuquerque,Very High,Very High,High,Moderate,High,High,Moderate,Moderate,Low,Very High,Very High,High,High
+Atlanta,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Moderate,High,High,High,Moderate
+Austin,Low,High,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Low,Low
+Baltimore,Very High,High,High,High,High,High,High,High,Moderate,Very High,High,Very High,High
+Boston,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,Low
+Chicago,High,High,Moderate,High,Moderate,High,High,Moderate,Moderate,High,High,High,High
+Cincinnati,High,High,Low,Moderate,Low,Moderate,Low,Moderate,Low,High,Moderate,Moderate,Low
+Honolulu,Moderate,High,Low,Low,Low,Moderate,Low,Low,Low,Moderate,Moderate,Moderate,Moderate
+Houston,High,High,High,High,Moderate,High,Moderate,Moderate,Moderate,High,High,High,Moderate
+Miami,Moderate,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,Moderate,Moderate,High
+Philadelphia,High,High,Moderate,Moderate,Moderate,High,Moderate,High,Moderate,High,High,High,High
+Phoenix,High,High,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Low,High,High,Moderate,Moderate
+Washington,High,High,Moderate,Moderate,Moderate,High,Moderate,Moderate,Moderate,High,High,High,Moderate
+Montevideo,High,High,Moderate,High,Moderate,High,Moderate,Low,Very Low,Moderate,High,High,Moderate
+Tashkent,Low,Moderate,Low,Low,Low,Moderate,Low,Low,Low,Low,Low,Low,High
+Hanoi,Low,Moderate,Low,Low,Low,Low,Low,Low,Very Low,Moderate,Moderate,Low,High
+Lusaka,Moderate,High,Moderate,Moderate,Moderate,High,Low,Low,Low,Low,Moderate,Moderate,High
+Harare,Moderate,High,High,High,Moderate,High,Moderate,Moderate,Low,Moderate,High,Moderate,Very High
